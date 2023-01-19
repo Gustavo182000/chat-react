@@ -1,0 +1,5 @@
+.chat{
+    height: 30rem;
+    overflow: auto;
+    --bs-gutter-x: 0;
+}

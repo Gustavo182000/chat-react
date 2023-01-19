@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7f30acb6.css","mappings":"AAAA,MAGI,eAAgB,CAFhB,YAAa,CACb,aAEJ","sources":["components/home.css"],"sourcesContent":[".chat{\r\n    height: 30rem;\r\n    overflow: auto;\r\n    --bs-gutter-x: 0;\r\n}"],"names":[],"sourceRoot":""}
